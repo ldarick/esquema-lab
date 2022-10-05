@@ -246,7 +246,7 @@ O ambiente é composto por 4 vms, sendo:
 | USUÁRIO | root |
 | SENHA | zaq1@WSX |
 | SO | UBUNTU SERVER 20.04 LTS |
-| IP | 192.168.1.13 |
+| IP | 192.168.1.30 |
 | MÁSCARA | 255.255.0.0|
 | GATEWAY | 192.168.0.2 |
 | DNS-01 | 192.168.0.3|
@@ -277,7 +277,7 @@ O ambiente é composto por 4 vms, sendo:
 | USUÁRIO | root |
 | SENHA | zaq1@WSX |
 | SO | UBUNTU SERVER 20.04 LTS |
-| IP | 192.168.2.13 |
+| IP | 192.168.2.30 |
 | MÁSCARA | 255.255.0.0|
 | GATEWAY | 192.168.0.2 |
 | DNS-01 | 192.168.0.3|
