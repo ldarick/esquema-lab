@@ -644,6 +644,7 @@ O ambiente é composto por 5 vms, sendo:
 | DISK-01 | 520GB |
 | ADAPTADORES DE REDE | 2 |
 | FQDN | vsa.prod.labvsp.local |
+| VIP FQDN | vip.prod.labvsp.local |
 
 </center>
 
@@ -909,6 +910,7 @@ O ambiente é composto por 4 vms, sendo:
 | DISK-01 | 520GB |
 | ADAPTADORES DE REDE | 2 |
 | FQDN | vsa.dr.labvsp.local |
+| VIP FQDN | vip.dr.labvsp.local |
 
 </center>
 
