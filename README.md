@@ -84,7 +84,8 @@ AD02-PROD se constitui do AD secundário localizado no ambiente de PROD.
 | USUÁRIO | administrator |
 | SENHA | zaq1@WSX |
 | SO | WINDOWS SERVER 2019 |
-| IP | 192.168.1.4 |
+| IP-01 | 192.168.1.4 |
+| IP-02 | 172.16.1.4 |
 | MÁSCARA | 255.255.0.0|
 | GATEWAY | 192.168.0.2 |
 | DNS-01 | 192.168.1.4|
@@ -116,7 +117,8 @@ AD02-DR se constitui do AD secundário localizado no ambiente de DR.
 | USUÁRIO | administrator |
 | SENHA | zaq1@WSX |
 | SO | WINDOWS SERVER 2019 |
-| IP | 192.168.2.4 |
+| IP-01 | 192.168.2.4 |
+| IP-02 | 172.16.2.4 |
 | MÁSCARA | 255.255.0.0|
 | GATEWAY | 192.168.0.2 |
 | DNS-01 | 192.168.2.4|
