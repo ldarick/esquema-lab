@@ -55,7 +55,8 @@ AD01 se constitui do AD primário, englobando todo o ambiente.
 | USUÁRIO | Administrator |
 | SENHA | zaq1@WSX |
 | SO | WINDOWS SERVER 2019 |
-| IP | 192.168.0.3 |
+| IP-01 | 192.168.0.3 |
+| IP-02 | 172.16.0.3 |
 | MÁSCARA | 255.255.0.0|
 | GATEWAY | 192.168.0.2 |
 | DNS-01 | 192.168.0.3|
