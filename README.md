@@ -358,7 +358,7 @@ O ambiente é composto por 5 vms, sendo:
 | CORES | 3 |
 | DISK | 10GB |
 | ADAPTADORES DE REDE | 8 |
-| iSCSI | iqn.1998-01.com.vmware:esxi01-2b374409 |
+| iSCSI | iqn.1998-01.com.vmware:esxi01-4c7033a4 |
 | FQDN | esxi01.prod.labvsp.local |
 
 </center>
@@ -443,7 +443,7 @@ O ambiente é composto por 5 vms, sendo:
 | CORES | 3 |
 | DISK | 10GB |
 | ADAPTADORES DE REDE | 8 |
-| iSCSI | iqn.1998-01.com.vmware:esxi02-6cb32662 |
+| iSCSI | iqn.1998-01.com.vmware:esxi02-63e708f0 |
 | FQDN | esxi02.prod.labvsp.local |
 
 </center>
@@ -528,7 +528,7 @@ O ambiente é composto por 5 vms, sendo:
 | CORES | 3 |
 | DISK | 10GB |
 | ADAPTADORES DE REDE | 8 |
-| iSCSI | iqn.1998-01.com.vmware:esxi03-5ae6058b |
+| iSCSI | iqn.1998-01.com.vmware:esxi03-4975bcf3 |
 | FQDN | esxi03.prod.labvsp.local |
 
 </center>
