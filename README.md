@@ -568,7 +568,7 @@ O ambiente é composto por 5 vms, sendo:
     * Networking:
         * **FT**:
             * Tipo: VMKernel;
-            * IP: 192.168.131.1
+            * IP: 192.168.123.1
             * Adaptadores:
                 * vmnic 4;
                 * vmnic 5.
